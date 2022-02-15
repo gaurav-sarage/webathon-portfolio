@@ -1,5 +1,5 @@
 # webathon-portfolio
-                                                   A personal portfolio made during the webathon! (3 days lol)
+                                         A personal portfolio made during the webathon! (3 days lol)
                                                    
 Tech Stack Used: HTML,CSS,Javascript.
 
@@ -41,6 +41,4 @@ PS: Dummy photos have been taken for the Webathon. And there has been a constant
 My recommendation is using the Dark Mode, font-size 3 and red color for the best effects!
 
 
-
-
-
+Honestly, developing the portfolio in a matter of just 3 days unveiled a new sense of motivation in me, it was surely tiring but totally worth it! 
