@@ -1,5 +1,5 @@
 # webathon-portfolio
-                                         A personal portfolio made during the webathon! (3 days lol)
+            A personal portfolio made during the webathon! (3 days lol)
                                                    
 Tech Stack Used: HTML,CSS,Javascript.
 
