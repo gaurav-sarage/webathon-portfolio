@@ -25,7 +25,7 @@ Issues I ran into:
 1. Not being able to add a photo above my name. For some reason, the CSS properties couldn't be applied, and if done then they
 went out of scope. 
 
-2. Creating a rotating "Operations+Work Experience" tab, so I could add more. The Havascript function for the code had some bugs, so
+2. Creating a rotating "Operations+Work Experience" tab, so I could add more. The Javascript function for the code had some bugs, so
 had to scrape it off. 
 
 
